@@ -1,0 +1,2 @@
+# QianSai-Driving_Protect
+此项目为FFasing制作的全国大学生嵌入式芯片设计竞赛产品-智能驾驶安全监控系统设计与实现
